@@ -24,7 +24,7 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40"/> </a>
   <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer"> <img src="https://moveit.ros.org/assets/logo/moveit2/moveit2-white-shadow.png" alt="moveit" width="40" height="40"/> </a>
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gazebo_logo.svg/120px-Gazebo_logo.svg.png" alt="gazebo" width="40" height="40"/> </a>
+  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gazebo_logo.svg/120px-Gazebo_logo.svg.png" alt="gazebo" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
